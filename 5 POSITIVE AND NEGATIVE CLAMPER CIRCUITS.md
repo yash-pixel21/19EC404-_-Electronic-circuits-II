@@ -19,8 +19,10 @@
 
 
 # Graph
-![WhatsApp Image 2025-11-14 at 15 44 10_e29e18b5](https://github.com/user-attachments/assets/212ca3fb-2333-4bfd-9e7c-045fec2290a0)
-![WhatsApp Image 2025-11-14 at 15 44 37_4953e3ac](https://github.com/user-attachments/assets/2adbb19e-e920-41a4-9f74-6a36d8c1da7b)
+
+![WhatsApp Image 2025-11-24 at 08 28 31_92c284b2](https://github.com/user-attachments/assets/c257151d-2295-46ba-a9d5-d350044fd03f)
+![WhatsApp Image 2025-11-24 at 08 28 34_2170ac4f](https://github.com/user-attachments/assets/72921c13-c29f-40b7-bb8a-a38091761ef3)
+
 
 
 # Sample images 
